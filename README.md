@@ -1,42 +1,50 @@
-<h2> Hey there! I'm Francisco Cisneros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Francisco Cisneros </h1>
+<h3 align="center">A passionate Junior Software Developer/>   </h3>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+<div align="center">
+You have finally discovered my Github profile, I was waiting for you! <br>
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
-<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a"/>
+<i>Happy Coding!</i> 🚀
+</br>
+</br>
+</br>
+</div>
 
-👋 I am Francisco Cisneros, junior software developer 💻, passionate about creating applications 🚀. With experience in the development and design of technological solutions 🔧, I always look for new challenges and opportunities to continue learning 🎯. Transforming ideas into code! 🌍
+<div>
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
 
-- 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
-- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
-  <!-- Connect with me -->
-  <!--h2 without bottom border-->
-  <div id="user-content-toc">
-    <ul align="left">
-      <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
-    </ul>
-  <!--icons and links-->
-  <p align="left">
-  <a href="https://www.linkedin.com/in/francisco-cisneros-b9b192281/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="instagram.com/francisco_cisneros01/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  </p>
-  </div>
+<br>
+<br>
+<br>
+<br>
 
----
+  <div>
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+- 👨‍💻 All of my projects are available  [here](https://github.com/felippegh?tab=repositories)
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+- 💬 Ask me about anything <a href="https://github.com/felippegh/felippegh/issues/new"><b>here</b></a>
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-<br/>
+<div align="center">
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+</p>
+</div>
